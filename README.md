@@ -17,7 +17,7 @@ You can also use the loadstring:
 
 ```lua
 loadstring(
-	game:HttpGetAsync("https://raw.githubusercontent.com/saucekid/sauceVR/main/package.lua")
+	game:HttpGetAsync("https://raw.githubusercontent.com/AppleiLev5s/sauceVR/main/package.lua")
 )()
 ```
 
