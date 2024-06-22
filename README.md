@@ -1,7 +1,7 @@
 <div align="center">
-	<a href="https://github.com/saucekid/sauceVR"><img src="assets/images/logo.png" alt="sauceVR logo" width="256"></img></a>
+	<a href="https://github.com/AppleiLev5s/sauceVR"><img src="assets/images/logo.png" alt="sauceVR logo" width="256"></img></a>
 	<br>
-	<a href="https://github.com/richie0866/Rostruct/releases/latest"><img src="https://img.shields.io/github/v/release/saucekid/sauceVR?include_prereleases" alt="Latest Release" /></a>
+	<a href="https://github.com/richie0866/Rostruct/releases/latest"><img src="https://img.shields.io/github/v/release/AppleiLev5s/sauceVR?include_prereleases" alt="Latest Release" /></a>
 	<br>
 	Roblox Universal Full-Body VR
 </div>
