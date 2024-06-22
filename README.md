@@ -5,6 +5,7 @@
 	<br>
 	Roblox Universal Full-Body VR
 </div>
+PS: This is a modified version of sauceVR to work with newer Roblox. (and solara cuz its one of the only exploits remaining out there) Unfortunately, I'm not that good with FE, and I couldn't make your movements show up for others. The only movement others are gonna see is you weirdly flailing around with your full body. Pretty sure it's a netless issue, gonna try fixing this in the near future.
 
 
 ## Install
