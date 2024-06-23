@@ -29,7 +29,7 @@ All options are configurable in the UI
 
 `Grip Buttons` ▶︎ *Climb wall / Hold tool / Pick up unanchored part*
 
-`Right Thumbstick Forward` ▶︎ *Jump* 
+`Right Thumbstick Forward` ▶︎ *Jump* (tho im not too sure it might have gotten broken too, it wasnt updated in a year after all)
 
 **(To open menu, rotate both your hands towards the floor)**
 
